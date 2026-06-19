@@ -1,0 +1,4 @@
+Camera placeholder proof
+Complaint ID: 3
+Created at: 2026-04-20T21:03:13.227897300
+Replace this placeholder with real webcam capture integration later.
